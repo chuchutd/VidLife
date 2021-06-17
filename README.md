@@ -32,7 +32,7 @@ VidLife includes 29 sorts of high-level activities and 14 sorts of low-level act
 ## Contact Us
 
 This work is done by Natural Language Processing laboratory from National Taiwan University (NTU).
-If you would like to share feedback or report concerns, please e-mail us at <mailto:tdjhu@nlg.csie.ntu.edu.tw>
+If you would like to share feedback or report concerns, please e-mail us at <tdjhu@nlg.csie.ntu.edu.tw>
 
 
 
