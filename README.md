@@ -3,6 +3,7 @@
 VidLife contains personal life events with triple forms from The Big Bang Theory, eg. (Leonard, visit, Penny), which is designed for training and evaluating personal life event extraction systems.
 
 You could download part of the life events annotations, which is released in this repository.
+The complete dataset will be made available online after our paper is accepted.
 
 # Data Description
 
