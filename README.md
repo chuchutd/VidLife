@@ -25,6 +25,8 @@ Each example in VidLife is a video clip with its corresponding bounding box, sub
 "ground_truth_QA_pair(or sentence)": "[['Question', 'Answer'], ..]"
 ```
 
+For the use of video clips with bounding box, subtitle and ground truth question-answer pair, please find TVQA+ dataset website:https://tvqa.cs.unc.edu/.
+
 ## Data Statistics
 
 VidLife includes 29 sorts of high-level activities and 14 sorts of low-level activities.
