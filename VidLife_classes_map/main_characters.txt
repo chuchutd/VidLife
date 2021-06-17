@@ -1,0 +1,2 @@
+main_characters_dict = {'Leonard': 0, 'Sheldon': 1, 'Penny':2, 'Howard':3, 'Raj':4, 'Leslie':5, 'Amy':6, \
+                   'Bernadette':7, 'Stuart':8, 'Emily':9}
