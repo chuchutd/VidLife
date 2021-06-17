@@ -1,0 +1,101 @@
+,vid_name,labeled_SVO_ts,labeled_train_SVO_ts
+0,s01e01_seg01_clip_00,"[('Leonard', 'put', 'A piece of paper .'), ('Leonard', 'hold', 'hand')]","[(0, 2, 1), (0, 41, 18)]"
+1,s01e01_seg01_clip_01,"[('Sheldon', 'wear', 'a shoulder bag'), ('Leonard and Sheldon', 'hand', 'Clipboards and pens .'), ('Leonard', 'sit', 'waiting room')]","[(1, 9, 0), (0, 14, 0), (0, 14, 0)]"
+2,s01e01_seg01_clip_02,"[('Sheldon', 'leave', 'donation office'), ('Sheldon', 'leave', 'sperm bank'), ('Leonard', 'hold', 'clip board'), ('Leonard', 'hold', 'brown bad'), ('Leonard', 'sit', 'waiting room'), ('Leonard', 'walk', 'door')]","[(1, 21, 1), (1, 21, 3), (0, 41, 0), (0, 41, 73), (0, 14, 0), (0, 42, 0)]"
+3,s01e01_seg01_clip_03,"[('Leonard', 'walk', 'stair')]","[(0, 42, 0)]"
+4,s01e01_seg01_clip_04,"[('Penny', 'hold', 'the door'), ('Leonard', 'invite', 'Penny'), ('Penny', 'closes', 'door'), ('Sheldon', 'enter', 'apartment'), ('Leonard', 'enter', 'apartment'), ('Penny', 'close', 'door'), ('Sheldon', 'take', 'keys')]","[(2, 41, 0), (0, 28, 7), (1, 17, 0), (0, 17, 0), (2, 33, 0), (1, 6, 1), (1, 14, 0)]"
+5,s01e01_seg01_clip_05,"[('Sheldon', 'wear', 'Flash T shirt'), ('Leonard', 'knock', 'door'), ('Leonard', 'knock', 'apartment door'), ('Leonard', 'hold', 'paper bag'), ('Penny', 'leave', 'apartment'), ('Leonard', 'hold', 'bag')]","[(1, 9, 0), (0, 4, 0), (0, 4, 0), (0, 41, 0), (2, 21, 0), (0, 41, 0)]"
+6,s01e01_seg02_clip_00,"[('Penny', 'notice', 'white board'), ('Sheldon', 'enter', 'apartment door')]","[(1, 17, 0), (0, 7, 0)]"
+7,s01e01_seg02_clip_01,"[('Penny', 'ask', 'Leonard'), ('Sheldon', 'put', 'hand'), ('Leonard', 'sit', 'chair')]","[(2, 28, 7), (1, 2, 18), (0, 14, 0)]"
+8,s01e01_seg02_clip_02,"[('Sheldon', 'sit', 'couch'), ('Sheldon', 'sit', 'living room'), ('Sheldon', 'sit', 'couch')]","[(1, 14, 0), (1, 14, 0), (1, 14, 0)]"
+9,s01e01_seg02_clip_03,"[('Sheldon', 'sit', 'sofa'), ('Leonard', 'put', 'hand'), ('Leonard', 'sit', 'armchair'), ('Leonard', 'sit', 'armchair')]","[(1, 14, 0), (0, 2, 18), (0, 14, 0), (0, 14, 0)]"
+10,s01e01_seg02_clip_04,"[('Sheldon', 'jump', 'seat'), ('Penny', 'speak', 'Leonard')]","[(1, 10, 0), (2, 2, 18)]"
+11,s01e01_seg02_clip_05,"[('Sheldon', 'answer', 'Yes'), ('Leonard', 'say', 'No'), ('Sheldon', 'say', 'Yes')]","[(2, 21, 0), (1, 2, 17), (1, 2, 17)]"
+12,s01e01_seg02_clip_06,"[('Sheldon', 'go', 'beer'), ('Sheldon', 'get', 'bottle'), ('Sheldon', 'grab', 'beers'), ('Sheldon', 'open', 'refrigerator')]","[(1, 17, 17), (1, 30, 10), (1, 41, 17), (1, 42, 0)]"
+13,s01e01_seg02_clip_07,"[(' Leonard', 'put', 'a piece of paper'), ('Sheldon', 'ask', 'Luke Skywalker Shampoo'), ('Leonard', 'anticipate', 'Coitus'), ('Leonard', 'see', 'Raj and Howard'), ('Leonard', 'close', 'door')]","[(0, 2, 1), (1, 28, 9), (0, 19, 7), (0, 33, 0), (0, 30, 0)]"
+14,s01e01_seg02_clip_08,"[('Penny', 'turn on', 'shower'), ('Penny', 'wear', 'bath towel'), ('Leonard', 'help', 'Penny')]","[(2, 9, 9), (2, 40, 0), (2, 9, 9)]"
+15,s01e01_seg02_clip_09,[],[]
+16,s01e01_seg02_clip_10,"[('Raj', 'sit', 'couch'), ('Raj', 'put', 'food')]","[(4, 14, 0), (4, 2, 17)]"
+17,s01e01_seg02_clip_11,"[('Sheldon', 'pick', 'Penny'), ('Leonard', 'shake', 'door'), ('Howard', 'call', 'Raj'), ('Howard', 'hold', 'juice boxes'), ('Leonard', 'shake', 'door'), ('Howard', 'sit', 'chair')]","[(1, 11, 7), (0, 38, 0), (3, 29, 35), (3, 41, 1), (0, 38, 0), (3, 14, 0)]"
+18,s01e01_seg02_clip_12,"[('Sheldon', 'run', 'building'), ('Leonard', 'knock', 'door'), ('Leonard', 'open', 'door'), ('Sheldon', 'exit', 'apartment buildin')]","[(0, 4, 0), (0, 30, 0), (1, 21, 69), (1, 21, 0)]"
+19,s01e01_seg02_clip_13,"[('Raj', 'look', 'computer screen')]","[(0, 2, 18)]"
+20,s01e01_seg02_clip_14,"[('Leonard', 'stand', 'doorway'), ('Sheldon', 'watch', 'Penny'), ('Penny', 'hug', 'Leonard')]","[(1, 19, 7), (1, 17, 0), (1, 33, 0)]"
+21,s01e01_seg02_clip_15,"[('Penny', 'sit', 'back seat')]","[(2, 14, 0)]"
+22,s01e02_seg01_clip_00,"[('Sheldon', 'hold', 'fork'), ('Sheldon', 'give', 'lecture'), ('Leonard', 'shut', 'door'), ('Leonard', 'pull', 'door'), ('Sheldon', 'take', 'plastic fork'), ('Leonard', 'put', 'container')]","[(1, 41, 23), (1, 31, 1), (0, 37, 0), (0, 40, 0), (1, 6, 23), (0, 2, 17)]"
+23,s01e02_seg01_clip_01,"[('Leonard', 'say', 'Yes'), ('Howard', 'complimented', 'Penny'), ('Penny', 'hand', 'Leonard'), ('Penny', 'hand', 'key'), ('Penny', 'give', 'door key'), ('Penny', 'give', 'key'), ('Leonard', 'talk', 'Penny'), ('Howard', 'open', 'door')]","[(2, 31, 7), (2, 31, 1), (2, 31, 1), (2, 31, 1), (3, 30, 0), (1, 30, 0), (3, 30, 0), (1, 30, 0)]"
+24,s01e02_seg01_clip_02,"[('Penny', 'hold', 'Purse'), ('Leonard', 'wear', 'shirt'), ('Raj', 'join', 'Sheldon'), ('Penny', 'join', 'Sheldon')]","[(2, 41, 47), (0, 9, 0), (4, 23, 7), (2, 23, 7)]"
+25,s01e02_seg01_clip_03,"[('Penny', 'leave', 'group'), ('Sheldon', 'open', 'door'), ('Sheldon', 'enter', 'apartment'), ('Raj', 'put', 'arm')]","[(2, 21, 1), (1, 30, 0), (1, 17, 0), (4, 2, 18)]"
+26,s01e02_seg02_clip_00,[],[]
+27,s01e02_seg02_clip_01,"[('Leonard', 'push', 'box'), ('Leonard', 'hold', 'package'), ('Sheldon', 'push', 'box')]","[(0, 5, 1), (0, 41, 1), (1, 5, 1)]"
+28,s01e02_seg02_clip_02,"[('Sheldon', 'sit', 'floor'), ('Sheldon', 'pick', 'tray'), ('Leonard', 'drop', 'box')]","[(1, 14, 0), (1, 11, 17), (0, 11, 1)]"
+29,s01e02_seg02_clip_03,[],[]
+30,s01e02_seg02_clip_04,"[('Leonard', 'hold', 'lightsaber')]","[(0, 41, 23)]"
+31,s01e02_seg02_clip_05,"[('Sheldon', 'hold', 'CD'), ('Leonard', 'leave', 'apartment'), ('Sheldon', 'put', 'clothes'), ('Sheldon', 'pick', 'clothing')]","[(1, 41, 49), (0, 21, 0), (1, 2, 0), (1, 11, 0)]"
+32,s01e02_seg02_clip_06,"[('Leonard', 'hold', 'cloth'), ('Sheldon', 'enter', 'room'), ('Sheldon', 'pick', 'shirt')]","[(0, 41, 9), (1, 17, 0), (1, 11, 0)]"
+33,s01e02_seg02_clip_07,"[('Sheldon', 'hold', 'milk'), ('Sheldon', 'ask', 'Leonard'), ('Leonard', 'hold', 'coffee'), ('Sheldon', 'take', 'cereal'), ('Sheldon', 'pick', 'cereal'), ('Sheldon', 'open', 'refrigerator')]","[(1, 41, 17), (1, 28, 7), (0, 41, 17), (1, 6, 17), (1, 11, 17), (1, 30, 10)]"
+34,s01e02_seg02_clip_08,[],[]
+35,s01e02_seg02_clip_09,"[('Sheldon', 'shut', 'door'), ('Sheldon', 'have', 'a mug')]","[(1, 37, 0), (1, 37, 0)]"
+36,s01e02_seg02_clip_10,"[('Sheldon', 'apologize', 'Penny'), ('Penny', 'carry', 'bag'), ('Penny', 'open', 'door')]","[(2, 6, 0), (2, 30, 0), (2, 33, 0)]"
+37,s01e02_seg02_clip_11,"[('Penny', 'hold', 'Basket'), ('Penny', 'place', 'laundry'), ('Penny', 'give', 'hug')]","[(2, 41, 0), (2, 31, 46), (2, 31, 46)]"
+38,s01e02_seg02_clip_12,"[('Howard', 'tell', 'Leonard')]","[(4, 2, 0)]"
+39,s01e02_seg02_clip_13,"[('Howard', 'rub', 'hands'), ('Leonard', 'stuff', 'letter'), ('Leonard', 'slip', 'paper')]","[(0, 19, 1), (0, 30, 0), (0, 2, 1)]"
+40,s01e02_seg02_clip_14,[],[]
+41,s01e02_seg02_clip_15,"[('Howard', 'wear', 'hat'), ('Leonard', 'wear', 'jacket'), ('Leonard', 'walk', 'counter'), ('Sheldon', 'leave', 'apartment')]","[(3, 9, 0), (0, 9, 0), (0, 42, 14), (1, 21, 0)]"
+42,s01e03_seg01_clip_00,[],[]
+43,s01e03_seg01_clip_01,"[('Sheldon', 'put', 'Sword of Azeroth'), ('Sheldon', 'hold', 'computer'), ('Howard', 'buy', 'Sword of Azeroth'), ('Sheldon', 'sit', 'couch'), ('Sheldon', 'hold', 'laptop'), ('Raj', 'tell', 'others')]","[(1, 2, 89), (1, 41, 10), (3, 16, 89), (1, 14, 0), (1, 41, 10), (3, 41, 10)]"
+44,s01e03_seg02_clip_00,"[('Penny', 'kiss', 'Leonard'), ('Leonard', 'interest', 'Penny'), ('Leonard', 'take', 'envelope'), ('Leonard', 'put', 'blue pillow')]","[(2, 26, 7), (0, 6, 67), (0, 2, 0), (0, 31, 10)]"
+45,s01e03_seg02_clip_01,"[('Raj', 'close', 'bag'), ('Leonard', 'enter', 'room'), ('Leonard', 'walk', 'apartment')]","[(4, 33, 0), (0, 17, 0), (0, 42, 0)]"
+46,s01e03_seg02_clip_02,"[('Sheldon', 'hold', 'box'), ('Sheldon', 'put', 'box'), ('Raj', 'hold', 'bowl'), ('Howard', 'walk', 'Leonard'), ('Sheldon', 'pick', 'chopstick'), ('Sheldon', 'pick', 'chopstick'), ('Sheldon', 'give', 'advice')]","[(1, 41, 1), (1, 2, 1), (4, 41, 17), (3, 42, 7), (1, 11, 23), (1, 11, 23), (1, 31, 1)]"
+47,s01e03_seg02_clip_03,"[('Leslie', 'remove', 'goggles'), ('Leslie', 'hand', 'goggles')]","[(5, 7, 17), (5, 31, 17)]"
+48,s01e03_seg02_clip_04,"[('Leonard', 'take', 'glasses'), ('Lesley', 'offer', 'mint'), ('Leonard', 'take', 'goggle')]","[(0, 6, 17), (0, 6, 90), (0, 2, 18)]"
+49,s01e03_seg02_clip_05,[],[]
+50,s01e03_seg02_clip_06,"[('Howard', 'touch', 'Jenga game'), ('Leonard', 'enter', 'apartment'), ('Howard', 'discuss', 'robots'), ('Leonard', 'enter', 'apartment')]","[(3, 20, 46), (0, 17, 0), (3, 0, 10), (0, 17, 0)]"
+51,s01e03_seg02_clip_07,"[('Sheldon', 'wear', 'red shirt'), ('Howard', 'take', 'breath'), ('Howard', 'shake', 'head')]","[(1, 9, 0), (3, 6, 18), (3, 38, 18)]"
+52,s01e03_seg02_clip_08,"[('Sheldon', 'Sheldon', 'hold'), ('Leonard', 'open', 'door')]","[(0, 30, 0), (0, 41, 0)]"
+53,s01e03_seg02_clip_09,"[('Sheldon', 'tell', 'Leonard'), ('Leonard', 'say', 'Sheldon'), ('Leonard', 'knock', 'door'), ('Sheldon', 'get', 'cat'), ('Leonard', 'pick', 'brown paper bags')]","[(0, 4, 0), (1, 17, 26), (0, 11, 0), (0, 42, 0), (0, 6, 0)]"
+54,s01e03_seg02_clip_10,"[('Leonard', 'take', 'Penny'), ('Penny', 'open', 'door'), ('Leonard', 'visit', 'Penny')]","[(0, 6, 7), (2, 30, 0), (0, 17, 7)]"
+55,s01e03_seg02_clip_11,[],[]
+56,s01e03_seg02_clip_12,[],[]
+57,s01e03_seg02_clip_13,"[('Sheldon', 'open', 'drawer'), ('Leonard', 'hold', 'open palms'), (""'Sheldon"", 'get', 'back')]","[(1, 30, 0), (0, 41, 18), (1, 14, 0)]"
+58,s01e03_seg02_clip_14,"[('Sheldon', 'hold', 'Phone'), ('Leonard', 'wear', 'shirt'), ('Leonard', 'wear', 'shirt')]","[(1, 41, 10), (0, 9, 0), (0, 9, 0)]"
+59,s01e03_seg02_clip_15,"[('Leonard', 'hold', 'Menu'), ('Leonard', 'ask', 'Penny'), ('Leonard', 'wear', 'shirt'), ('Penny', 'wear', 'shirt'), ('Penny', 'hold', 'menu'), ('Leonard', 'knock', 'table'), ('Leonard', 'hold', 'menu')]","[(0, 41, 77), (0, 28, 7), (0, 9, 0), (2, 9, 0), (2, 41, 77), (0, 4, 1), (0, 41, 77)]"
+60,s01e03_seg02_clip_16,"[('Leonard', 'sit', 'table'), ('Penny', 'sit', 'table')]","[(0, 14, 1), (2, 14, 1)]"
+61,s01e03_seg02_clip_17,"[('Penny', 'ask', 'Leonard'), ('Leonard', 'hit', 'head'), ('head', 'hit', 'table'), ('Leonard', 'get', 'material')]","[(2, 28, 7), (0, 17, 18), (0, 17, 1), (0, 17, 14)]"
+62,s01e03_seg02_clip_18,[],[]
+63,s01e04_seg01_clip_00,"[('Leonard', 'wear', 'suit'), ('Leonard', 'talk', 'Sheldon'), ('Sheldon', 'wear', 'sweater'), ('Sheldon', 'talk', 'Leonard'), ('Sheldon', 'give', 'time machine'), ('Leonard', 'go', 'down'), ('Leonard', 'leave', 'apartment')]","[(0, 9, 0), (1, 9, 0), (1, 31, 10), (0, 21, 0), (1, 21, 0), (0, 9, 0), (1, 9, 0)]"
+64,s01e04_seg01_clip_01,"[('Leonard', 'ask', 'Raj')]","[(0, 28, 35)]"
+65,s01e04_seg01_clip_02,"[('Sheldon', 'carry', 'cardboard box'), ('Sheldon', 'call', 'boss'), ('Sheldon', 'carry', 'box'), ('Sheldon', 'carry', 'box')]","[(1, 6, 1), (1, 29, 1), (1, 6, 1), (1, 6, 1)]"
+66,s01e04_seg02_clip_00,"[('Leonard', 'put', 'mug'), ('Leonard', 'walk', 'into'), ('Leonard', 'enter', 'kitchen'), ('Sheldon', 'cook', 'something'), ('Sheldon', 'hold', 'spatila')]","[(0, 2, 17), (0, 42, 14), (0, 17, 10), (1, 12, 14), (1, 41, 88)]"
+67,s01e04_seg02_clip_01,"[('Sheldon', 'put', 'book'), ('Sheldon', 'wear', 'shirt'), ('Sheldon', 'take', 'picture'), ('Penny', 'open', 'door'), ('Penny', 'mention', 'Sheldon'), ('Sheldon', 'go', 'store'), ('Sheldon', 'carry', 'plate'), ('Sheldon', 'put', 'notebook')]","[(1, 2, 1), (1, 9, 0), (1, 6, 1), (2, 30, 0), (1, 6, 17), (1, 2, 42), (1, 11, 17), (1, 42, 0)]"
+68,s01e04_seg02_clip_02,[],[]
+69,s01e04_seg02_clip_03,[],[]
+70,s01e04_seg02_clip_04,"[('Sheldon', 'head', 'out'), ('Sheldon', 'push', 'cart')]","[(1, 5, 0), (2, 11, 78)]"
+71,s01e04_seg02_clip_05,"[('Penny', 'close', 'door'), ('Penny', 'walk', 'into her apartment'), ('Sheldon', 'carry', 'groceries'), ('Penny', 'close', 'door'), ('Penny', 'take', 'grocery bag')]","[(2, 33, 0), (2, 42, 0), (1, 6, 17), (2, 33, 0), (2, 6, 0)]"
+72,s01e04_seg02_clip_06,"[('Leonard', 'open', 'door'), ('Sheldon', 'shake', 'head'), ('Leonard', 'walk', 'through the front door')]","[(0, 30, 0), (1, 38, 18), (0, 42, 0)]"
+73,s01e04_seg02_clip_07,"[('Leonard', 'call', 'Sheldon'), ('Sheldon', 'wear', 'shirt'), ('Leonard', 'open', 'door'), ('Leonard', 'see', 'Sheldon'), ('Leonard', 'open', 'door'), ('Mrs cooper', 'give', 'hug')]","[(0, 29, 7), (1, 9, 0), (0, 30, 0), (0, 19, 7), (0, 30, 0), (1, 14, 0)]"
+74,s01e04_seg02_clip_08,"[('Sheldon', 'wear', 'poncho'), ('Leonard', 'carry', 'satchel'), ('Leonard', 'call', 'his mother'), ('Sheldon', 'leave', 'room')]","[(1, 9, 0), (0, 6, 0), (0, 29, 46), (1, 21, 0)]"
+75,s01e04_seg02_clip_09,"[('Penny', 'hold', 'bottle'), ('Howard', 'see', 'Sheldon'), ('Cooper', 'shake', 'head'), ('Raj', 'sit', 'table')]","[(2, 41, 17), (3, 19, 7), (4, 14, 1), (4, 30, 17)]"
+76,s01e04_seg02_clip_10,"[('Penny', 'hold', 'a bottle of water')]","[(2, 41, 17)]"
+77,s01e04_seg02_clip_11,"[('Raj', 'sit', 'beside Howard')]","[(4, 14, 7)]"
+78,s01e04_seg02_clip_12,"[('Sheldon', 'carry', 'plate'), ('Howard', 'hold', 'the hand of Raj')]","[(1, 6, 17), (3, 41, 35)]"
+79,s01e04_seg02_clip_13,"[('Leonard', 'sit', 'in the living room'), ('Penny', 'sit', 'in the living room')]","[(0, 14, 0), (2, 14, 0)]"
+80,s01e04_seg02_clip_14,[],[]
+81,s01e04_seg02_clip_15,[],[]
+82,s01e04_seg02_clip_16,"[('Sheldon', 'leave', 'office'), ('Sheldon', 'get', 'Job'), ('Cooper', 'leave', 'door')]","[(1, 21, 1), (1, 17, 75), (1, 37, 0)]"
+83,s01e05_seg01_clip_00,[],[]
+84,s01e05_seg01_clip_01,"[('Sheldon', 'sit', 'at the table'), ('Sheldon', 'take', 'order'), ('Leonard', 'take', 'order'), ('Leonard', 'sit', 'at the table'), ('Penny', 'take', 'order')]","[(1, 14, 1), (1, 6, 1), (0, 6, 1), (0, 14, 1), (2, 6, 1)]"
+85,s01e05_seg01_clip_02,"[('Howard', 'start', 'beatboxing')]","[(2, 41, 77)]"
+86,s01e05_seg01_clip_03,[],[]
+87,s01e05_seg02_clip_00,[],[]
+88,s01e05_seg02_clip_01,"[('Leonard', 'hold', 'Violin'), ('Leonard', 'sit', 'chair'), ('Lesley', 'hold', 'violin')]","[(0, 41, 8), (0, 14, 0), (0, 41, 8)]"
+89,s01e05_seg02_clip_02,"[('Sheldon', 'knock', 'door'), ('Lesley', 'pick', 'violin'), ('Leonard', 'place', 'bow')]","[(1, 4, 0), (1, 33, 0), (1, 4, 0)]"
+90,s01e05_seg02_clip_03,"[('Penny', 'sit', 'couch'), ('Penny', 'press', 'hand'), ('Penny', 'talk', 'Sheldon')]","[(2, 14, 0), (2, 2, 18), (2, 14, 0)]"
+91,s01e05_seg02_clip_04,"[('Penny', 'sit', 'couch'), ('Sheldon', 'stop', 'Penny'), ('Sheldon', 'pick', 'violin case'), ('Penny', 'ask', 'Sheldon'), ('Penny', 'leave', 'Sheldon')]","[(2, 14, 0), (1, 11, 1), (2, 28, 7), (2, 21, 7), (2, 30, 0)]"
+92,s01e05_seg02_clip_05,[],[]
+93,s01e05_seg02_clip_06,"[('Sheldon', 'put', 'blanket'), ('Sheldon', 'sit', 'couch'), ('Sheldon', 'sleep', 'couch'), ('Sheldon', 'pass', 'board'), ('Sheldon', 'put', 'blanket'), ('Sheldon', 'get', 'up'), ('Sheldon', 'sleep', 'couch')]","[(1, 2, 11), (1, 14, 0), (1, 36, 0), (1, 31, 0), (1, 2, 11), (1, 17, 14), (1, 36, 0)]"
+94,s01e05_seg02_clip_07,"[('Sheldon', 'hold', 'blanket')]","[(1, 41, 11)]"
+95,s01e05_seg02_clip_08,"[('Sheldon', 'put', 'phone'), ('Penny', 'carry', 'a basket of laundry'), ('Penny', 'chat', 'Leonard'), ('Sheldon', 'take', 'phone'), ('Leonard', 'exit', 'apartment'), ('Sheldon', 'pull', 'cellphone'), ('Sheldon', 'take', 'cellphone')]","[(1, 2, 10), (2, 6, 9), (1, 6, 10), (0, 21, 0), (1, 40, 10), (1, 6, 10), (2, 6, 0)]"
+96,s01e05_seg02_clip_09,"[('Sheldon', 'close', 'door'), ('Penny', 'hold', 'laundry basket'), ('Penny', 'talk', 'Leonard'), ('Penny', 'hold', 'laundry nasket'), ('Penny', 'speak', 'Leonard'), ('Sheldon', 'exit', 'door')]","[(1, 33, 0), (2, 41, 0), (2, 41, 88), (1, 21, 0), (2, 6, 0), (2, 30, 0)]"
+97,s01e05_seg02_clip_10,"[('Leslie', 'put', 'banana'), ('Leslie', 'give', 'eye glasses'), ('Leonard', 'enter', 'room'), ('Leslie', 'put', 'banana'), ('Leslie', 'pull', 'banana'), ('Leslie', 'hand', 'goggles'), ('Leonard', 'enter', 'lab')]","[(5, 2, 17), (5, 31, 17), (0, 17, 0), (5, 2, 17), (5, 40, 17), (5, 31, 17), (0, 17, 0)]"
+98,s01e05_seg02_clip_11,[],[]
+99,s01e05_seg02_clip_12,[],[]
