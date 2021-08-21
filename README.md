@@ -36,7 +36,7 @@ VidLife includes 29 sorts of high-level activities and 14 sorts of low-level act
 
 Please cite the following papers when referring to the VidLife in academic publications and papers.
 
-    Tai-Te Chu, An-Zi Yen, Wei-Hong Ang, Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. VidLife: A Dataset for Life Event Extraction from Videos. In Proceedings of the 30th ACM International Conference on Information and Knowledge Management.
+Tai-Te Chu, An-Zi Yen, Wei-Hong Ang, Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. VidLife: A Dataset for Life Event Extraction from Videos. In Proceedings of the 30th ACM International Conference on Information and Knowledge Management.
 
 ## Contact Us
 
