@@ -32,6 +32,12 @@ For the use of video clips with bounding box, subtitle and ground truth question
 
 VidLife includes 29 sorts of high-level activities and 14 sorts of low-level activities.
 
+## How to Cite the Corpus
+
+Please cite the following papers when referring to the VidLife in academic publications and papers.
+
+    Tai-Te Chu, An-Zi Yen, Wei-Hong Ang, Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. VidLife: A Dataset for Life Event Extraction from Videos. In Proceedings of the 30th ACM International Conference on Information and Knowledge Management.
+
 ## Contact Us
 
 This work is done by Natural Language Processing laboratory from National Taiwan University (NTU).
